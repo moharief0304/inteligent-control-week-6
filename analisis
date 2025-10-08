@@ -1,0 +1,6 @@
+Instance Segmentation Memiliki pemahaman semantik mendalam tentang objek, dapat mengklasifikasikan area jalan, trotoar, kendaraan secara terpisah
+Robust terhadap variasi pencahayaan, cuaca, dan kondisi jalan karena telah dilatih dengan dataset beragam
+Mampu menangani scene kompleks dengan multiple objects dan okrusi berkat pembelajaran deep learning
+namunInstance Segmentation memiliki kelemahan seperti,Kecepatan inference lambat, memerlukan hardware bertenaga seperti GPU untuk mencapai real-time processing
+Ukuran model sangat besar berkisar 50-200MB tergantung arsitektur yang digunakan seperti Mask R-CNN atau YOLOv8
+Membutuhkan dataset training berlabel yang banyak dan berkualitas untuk mencapai performa optimal
